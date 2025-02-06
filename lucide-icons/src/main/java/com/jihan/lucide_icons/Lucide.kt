@@ -1,6 +1,6 @@
 package com.jihan.lucide_icons
 
-object Lucide {
+object lucide {
     val heart_pulse = R.drawable.heart_pulse
     val file_chart_pie = R.drawable.file_chart_pie
     val square_chevron_down = R.drawable.square_chevron_down
