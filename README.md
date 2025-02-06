@@ -1,5 +1,5 @@
 # Lucide Icons
-An unofficial lucide icons[(Lucide)]([https://lucide.dev](https://lucide.dev/)) library for android. 
+An unofficial Lucide icons library for android. 
 
 ## Download
 
@@ -10,11 +10,19 @@ Add the dependency below to your **module**'s `build.gradle` (app) file:
 implementation("com.github.0xJihan:lucide-icons:1.0.1")
 ```
 
+Add this in Setting.gradle
+```gradle
+
+ repositories {
+        maven("https://jitpack.io")
+    }
+```
+
 
 ## Usage
 `lucide.iconName`
 
-For example, you can use the iconsax-android in a Jetpack Compose project as seen below:
+For example, you can use the lucide-icons in a Jetpack Compose project as seen below:
 
 ```kotlin
   Icon(
