@@ -1,5 +1,5 @@
 # Lucide Icons
-An unofficial lucide icons[(Lucide)]([https://iconsax.io](https://lucide.dev/)) library for android. 
+An unofficial lucide icons[(Lucide)]([https://lucide.dev](https://lucide.dev/)) library for android. 
 
 ## Download
 
@@ -7,7 +7,7 @@ An unofficial lucide icons[(Lucide)]([https://iconsax.io](https://lucide.dev/)) 
 
 Add the dependency below to your **module**'s `build.gradle` (app) file:
 ```gradle
-implementation("com.github.0xJihan:lucide-icons:1.0.0")
+implementation("com.github.0xJihan:lucide-icons:1.0.1")
 ```
 
 
