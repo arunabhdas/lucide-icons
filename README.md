@@ -37,7 +37,7 @@ For example, you can use the lucide-icons in a Jetpack Compose project as seen b
 ```
 Distributed under the MIT License
 
-Copyright (c) 2024 Jihan
+Copyright (c) 2025 Arunabh Das
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
